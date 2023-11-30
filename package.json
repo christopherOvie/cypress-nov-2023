@@ -1,0 +1,21 @@
+{
+  "name": "cypress-nov-2023",
+  "version": "1.0.0",
+  "description": "cypress tes",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "author": "chris o",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^8.3.1",
+    "cy-verify-downloads": "^0.2.2",
+    "cypress": "^13.5.0",
+    "cypress-downloadfile": "^1.2.3",
+    "cypress-iframe": "^1.0.1"
+  },
+  "dependencies": {
+    "node-xlsx": "^0.23.0"
+  }
+}

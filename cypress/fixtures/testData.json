@@ -1,0 +1,15 @@
+{
+
+"filePath":"cypress/fixtures/staticmtd.PNG",
+"name" : "james doe",
+"email" : "james@test.com",
+"website" : "https://www.udemy.com/",
+"comment"   :"some comment on this msessage box",
+"experience": "10+",
+"alertMessage" : "Do you really fill rest of the form?",
+"successMessage" : "Message Sent (go back)",
+"errorMessage" : "error"
+
+
+
+}
